@@ -13,4 +13,4 @@ Through a comprehensive approach that encompassed data preprocessing, explorator
 
 One noteworthy aspect of the project involved employing 2D embeddings graphs and incorporating latent trait vectors using the ALS algorithm. These techniques significantly improved the accuracy and relevance of movie recommendations. In essence, this project has the potential to revolutionize how individuals discover and enjoy movies, with far-reaching implications for the movie industry and its devoted enthusiasts.
 
-# GOOD READING:)
+# GOOD READING😁
